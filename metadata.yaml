@@ -1,0 +1,27 @@
+_repo: Immortal-Songs-of-Camp-and-FieldAnecdotes-connected-with-their-History_43539
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43539-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Banks, Louis Albert
+    birthdate: 1855
+    deathdate: 1933
+    gutenberg_agent_id: '2197'
+    url: http://www.gutenberg.org/2009/agents/2197
+description: ''
+gutenberg_issued: '2013-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National songs -- United States'
+- !lcc 'ML'
+title: "Immortal Songs of Camp and Field\r\nThe Story of their Inspiration together\
+  \ with Striking Anecdotes connected with their History"
+url: http://www.gutenberg.org/ebooks/43539
